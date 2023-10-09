@@ -50,6 +50,23 @@
       "message": "Looks good to me too",
       "revId": "0c4235c91086b1b725f8abf463a6c0ef2cdb9e5f",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f6a7668e_1d0e935c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1015174
+      },
+      "writtenOn": "2023-10-09T08:35:45Z",
+      "side": 1,
+      "message": "This can be merged",
+      "revId": "0c4235c91086b1b725f8abf463a6c0ef2cdb9e5f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
