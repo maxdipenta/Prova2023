@@ -33,6 +33,23 @@
       "message": "I\u0027ve successfully tested it",
       "revId": "0c4235c91086b1b725f8abf463a6c0ef2cdb9e5f",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5dd9130e_f7aaadc8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1015174
+      },
+      "writtenOn": "2023-10-09T08:35:00Z",
+      "side": 1,
+      "message": "Looks good to me too",
+      "revId": "0c4235c91086b1b725f8abf463a6c0ef2cdb9e5f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
